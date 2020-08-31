@@ -5,4 +5,4 @@ https://github.com/ifynn/FluidLayout
 
 ## 效果
 
-!()[./photo/1.jpg]
+![](./photo/1.jpg)
